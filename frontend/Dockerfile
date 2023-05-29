@@ -1,5 +1,4 @@
 FROM node:18-alpine as builder
-LABEL maintainer="Birk Skyum<birk.skyum@pm.me>"
 
 WORKDIR /usr/src/app
 COPY . .
