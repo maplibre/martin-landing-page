@@ -1,9 +1,1 @@
-# Martin Use Case
-
-## Usage
-
-```shell
-docker-compose up
-```
-
-Open `localhost` in your browser
+This repository has been moved to https://github.com/maplibre/martin/tree/main/demo
